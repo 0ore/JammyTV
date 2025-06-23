@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="MAIN" tvg-id="main/sportsnet4k" tvg-logo="" provider="MAIN" provider-logo="" provider-type="iptv",[MAIN] SPORTSNET 4K
+http://5.223.45.65:7878/stream/main/sportsnet4k/master.m3u8?u=hakdog&p=e9a2095d8b057fd30cf2f15040fbc0e772ff05fa0add3b6800a4d9ed105252e7
+
